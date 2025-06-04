@@ -39,7 +39,7 @@
   </a>
 
   <a href="https://www.javascript.com/" target="_blank">
-    <img src="httpsields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   </a>
 
   <a href="https://git-scm.com/" target="_blank">
