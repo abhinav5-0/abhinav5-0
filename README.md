@@ -89,6 +89,12 @@
 
 ---
 
+### 🟧 GitHub Contributions
+<p align="center">
+  <img src="https://ghchart.rshah.org/FFA500/abhinav5-0" alt="Abhinav's GitHub Contribution Graph" />
+</p>
+
+
 ### 🔭 What’s Next?
 - ✅ Master advanced AI & Machine Learning models using Python & frameworks  
 - ✅ Build projects combining DSA with AI algorithms  
