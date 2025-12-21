@@ -12,7 +12,7 @@
 - 🌱 Currently diving deep into:
   - 🤖 **Machine Learning & Deep Learning** concepts and frameworks (Python, TensorFlow, PyTorch)
   - 🧠 **Advanced Data Structures & Algorithms** with C++ for competitive programming  
-  - 🌐 **Full-stack Web Development** (HTML, CSS, JavaScript, React basics)
+  - 🌐 **Full-stack Web Development** (HTML, CSS, JavaScript, React )
   - ⚙️ Git, GitHub, and Collaborative Development workflows
 - 💡 Actively exploring open-source contributions and building mini AI projects  
 - 📚 Firm believer in “Learning by Building” and “Solving Real-World Problems with Code”  
