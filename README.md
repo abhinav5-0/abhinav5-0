@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
-<h3 align="center">B.Tech Computer Science Student | AI & Software Enthusiast 🚀</h3>
+<h3 align="center">B.Tech Computer Science Graduate | AI & Software Enthusiast 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Learning+DSA+and+AI+Skills;Building+Innovative+Projects;Driven+by+Tech+Curiosity!&center=true&width=440&height=45" />
